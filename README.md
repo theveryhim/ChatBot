@@ -8,7 +8,7 @@ refer to earlier parts of the conversation.<br>
 *Find detailed explanations of any of the sections in notebook*
 <p align="center">
     <img src="figures/1.png" alt="Descriptive Alt Text" class="fit-width-image">
-    <figcaption> 7B-size chatbot </figcaption>
+    <figcaption style="text-align: center;"> 7B-size chatbot </figcaption>
 </p>
 
 ## Context aware chat
@@ -23,7 +23,7 @@ refer to earlier parts of the conversation.<br>
 ## Retrieval-Augmented Generation (RAG) 
 <p align="center">
     <img src="figures/2.png" alt="Descriptive Alt Text" class="fit-width-image">
-    <figcaption> Retrieved data from user's pdf </figcaption>
+    <figcaption style="text-align: center;"> Retrieved data from user's pdf </figcaption>
 </p>
 
 - RAG System Initialization
@@ -46,7 +46,7 @@ refer to earlier parts of the conversation.<br>
 ## WebIntegration 
 <p align="center">
     <img src="figures/5.png" alt="Descriptive Alt Text" class="fit-width-image">
-    <figcaption> Web search sample </figcaption>
+    <figcaption style="text-align: center;"> Web search sample </figcaption>
 </p>
 
 - Preserve original user input for display
@@ -56,7 +56,7 @@ refer to earlier parts of the conversation.<br>
 ## Interactive Game
 <p align="center">
     <img src="figures/4.png" alt="Descriptive Alt Text" class="fit-width-image">
-    <figcaption> 20Q game view </figcaption>
+    <figcaption style="text-align: center;"> 20Q game view </figcaption>
 </p>
 
 - Initialization 
@@ -78,5 +78,5 @@ refer to earlier parts of the conversation.<br>
 The interface implements a multi-tab architecture with sophisticated state management and real-time monitoring.
 <p align="center">
     <img src="figures/3.png" alt="Descriptive Alt Text" class="fit-width-image">
-    <figcaption> Tabs and resources </figcaption>
+    <figcaption style="text-align: center;"> Tabs and resources </figcaption>
 </p>
